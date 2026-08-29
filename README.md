@@ -61,7 +61,7 @@ Model Comparison & Evaluation (MAE, RMSE, MAPE)
 ---
 
 ## Project Structure
-
+```
 pharma-sales-forecasting/
 ├── data/
 │ ├── raw/ # Original Kaggle CSVs (gitignored)
@@ -79,7 +79,7 @@ pharma-sales-forecasting/
 ├── reports/
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
