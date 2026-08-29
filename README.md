@@ -12,7 +12,7 @@ Pharmacies need reliable demand forecasts to avoid two costly mistakes: running 
 
 ## Dataset
 
-- **Source:** [Kaggle Pharma Sales Dataset](https://www.kaggle.com/)
+- **Source:** [Kaggle Pharma Sales Dataset](https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data)
 - **Granularities:** Hourly, Daily, Weekly, Monthly
 - **Time range:** 2014 – 2019 (~6 years)
 - **Drug categories:** M01AB, M01AE, N02BA, N02BE, N05B, N05C, R03, R06
