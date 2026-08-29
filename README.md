@@ -26,7 +26,7 @@ Pharmacies need reliable demand forecasts to avoid two costly mistakes: running 
 ---
 
 ## Project Architecture
-
+```
 Raw CSV Data (4 granularities)
 │
 ▼
@@ -46,7 +46,7 @@ data/processed/ (clean CSVs) ──▶ Load
 │
 ▼
 Model Comparison & Evaluation (MAE, RMSE, MAPE)
-
+```
 
 ---
 
