@@ -6,7 +6,6 @@ End-to-end data engineering and forecasting pipeline for pharmaceutical sales, b
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
-![Gemini API](https://img.shields.io/badge/GenAI-Google%20Gemini-green)
 ![License](https://img.shields.io/badge/License-MIT-purple)
 
 ## Project Overview
