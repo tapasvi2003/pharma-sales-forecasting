@@ -4,6 +4,11 @@ End-to-end data engineering and forecasting pipeline for pharmaceutical sales, b
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
+![Gemini API](https://img.shields.io/badge/GenAI-Google%20Gemini-green)
+![License](https://img.shields.io/badge/License-MIT-purple)
+
 ## Project Overview
 
 Pharmacies need reliable demand forecasts to avoid two costly mistakes: running out of high-demand drugs like Paracetamol, or over-stocking seasonal drugs like respiratory medications that only sell during flu season. This project builds a complete pipeline — from raw transactional data to a trained forecasting model — that predicts monthly drug sales across 8 drug categories.
